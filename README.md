@@ -1,6 +1,5 @@
 # BinaryTreeDemo
-a demo for binary tree
-
+一个简单的二叉树演示页面
 ## v0.0.1
 1. js中有全局Tree对象root,表示当前二叉树
 2. 二叉树的简易html展示，未做什么好看的样式
